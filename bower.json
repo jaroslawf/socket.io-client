@@ -1,0 +1,23 @@
+{
+  "name": "socket.io-client",
+  "version": "2.0.4",
+  "homepage": "https://github.com/jaroslawf/socket.io-client",
+  "authors": [
+    "jaroslawf <jaroslaw.f@devpark.pl>"
+  ],
+  "description": "socket.io-client bower compatible",
+  "main": "socket.io.js",
+  "keywords": [
+    "socket.io-client",
+    "socket.io",
+    "socketio-client"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
